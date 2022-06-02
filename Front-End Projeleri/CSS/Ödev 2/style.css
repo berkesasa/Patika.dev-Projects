@@ -1,0 +1,53 @@
+.logo {
+    
+    text-align: center;
+}
+
+.search-area {
+    width: 90%;
+    background-color: rgb(238,238,238);
+    text-align: center;
+    margin: auto;
+}
+
+.content {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.box-one {
+    width: 37%;
+    height: 75px;
+    background-color: rgb(126,229,218);
+    float: left;
+    margin: 0.15% 0.15% 0 0;
+    text-align: center;
+}
+
+.box-two {
+    font-size: 13px;
+    width: 20%;
+    height: 75px;
+    background-color: rgb(112,204,194);
+    float: left;
+    margin: 0.15% 0.15% 0 0;
+    text-align: center;
+}
+
+.box-three {
+    font-size: 13px;
+    height: 75px;
+    width: 42.7%;
+    background-color: rgb(98,179,170);
+    float: left;
+    margin: 0.15% 0 0 0;
+    text-align: center;
+}
+
+.copyright {
+    display: inline-block;
+    font-size: 13px;   
+    text-align: center;
+    margin-left: 45%;
+}
